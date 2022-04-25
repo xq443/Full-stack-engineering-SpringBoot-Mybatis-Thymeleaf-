@@ -2,33 +2,6 @@
 
 ![index](static-files/首页.png)
 
-## 开发文档
-
-
-[![lesson-08](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/lesson-08.png)](https://www.shiyanlou.com/courses/3228)
-
-- [**Spring Boot 项目开发环境**](https://www.shiyanlou.com/courses/3228)
-- [快速构建 Spring Boot 应用](https://www.shiyanlou.com/courses/3228)
-- [Spring Boot 项目开发之Web项目开发讲解](https://www.shiyanlou.com/courses/3228)
-- [Spring Boot 整合 Thymeleaf 模板引擎](https://www.shiyanlou.com/courses/3228)
-- [Thymeleaf 语法详解 语法详解](https://www.shiyanlou.com/courses/3228)
-- [Spring Boot 自动配置数据源及操作数据库](https://www.shiyanlou.com/courses/3228)
-- [Spring Boot 整合 MyBatis 操作数据库](https://www.shiyanlou.com/courses/3228)
-- [Spring Boot 项目开发之验证码功能](https://www.shiyanlou.com/courses/3228)
-- [项目开发之用户注册模块实现](https://www.shiyanlou.com/courses/3228)
-- [项目开发之用户登录模块实现](https://www.shiyanlou.com/courses/3228)
-- [项目开发之用户登录拦截器](https://www.shiyanlou.com/courses/3228)
-- [项目实战之处理文件上传及路径回显](https://www.shiyanlou.com/courses/3228)
-- [项目实战之个人中心页面制作](https://www.shiyanlou.com/courses/3228)
-- [项目实战之专栏模块开发](https://www.shiyanlou.com/courses/3228)
-- [富文本编辑器 wangEditor 整合](https://www.shiyanlou.com/courses/3228)
-- [项目实战之文章发布功能开发](https://www.shiyanlou.com/courses/3228)
-- [项目实战之文章列表及详情功能开发](https://www.shiyanlou.com/courses/3228)
-- [项目实战之文章修改功能开发](https://www.shiyanlou.com/courses/3228)
-
-
-## 效果预览
-
 - 首页
 
   ![首页](static-files/首页.png)
